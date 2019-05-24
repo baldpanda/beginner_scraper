@@ -15,3 +15,4 @@ Medium Article on Scraping tables from web pages:
 
 * https://medium.com/analytics-vidhya/web-scraping-wiki-tables-using-beautifulsoup-and-python-6b9ea26d8722
 
+Can't crawl parkrun data for copyright purposes.
